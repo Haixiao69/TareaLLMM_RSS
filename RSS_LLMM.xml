@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias Haixiao</title>
+    <link>https://www.xataka.com</link>
+    <description>Varias noticias de la actualidad</description>
+    <language>es</language>
+    <copyright>Copyright 2025 Haixiao Wang</copyright>
+    <pubDate>Fri, 06 Jun 2025 20:03:58 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 20:06:05 GMT</lastBuildDate>
+    <category>Contemporaneidad</category>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <image>
+      <url>https://www.google.com/search?client=opera-gx&amp;hs=dcy&amp;sca_esv=87b41ab4477c98ab&amp;q=xataka&amp;udm=2&amp;fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQKBUqzTkgNGGtr-5xqnF46iLI5SEy8rWXEv5KXhfuU6crOO6MsyPMfQe474TNoIqhMv6EFeo-CxG8PJMs7egR6PD6HUzB5BlP9qQwA2sb37yldu3geucGSdFU6JH7z6CQxmuUASwa2w0zT4OYrG7Ugi2qHNL5bhrT9QhquHBJluy84jLC&amp;sa=X&amp;ved=2ahUKEwi75YrskN2NAxVHTqQEHTSXFh0QtKgLegQIHhAB&amp;biw=1879&amp;bih=956&amp;dpr=1#vhid=k62BM8o3r692BM&amp;vssid=mosaic</url>
+      <title>Noticias De Hoy</title>
+      <link>https://www.xataka.com</link>
+      <description>Imagen de la portada</description>
+    </image>
+    <item>
+      <title>Vuelve el calor</title>
+      <description>Vuelve un calor sofocante de la noche a la mañana.</description>
+      <category>Tiempo</category>
+      <guid isPermaLink="false">42396EBE-F92B-4447-A068-F367D6569510</guid>
+      <pubDate>Fri, 06 Jun 2025 20:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alcaraz</title>
+      <description>El murciano ya está en la final de París.</description>
+      <category>Deportes</category>
+      <guid isPermaLink="false">A239B1D0-4A75-4B60-A1B4-4EC23010C932</guid>
+      <pubDate>Fri, 06 Jun 2025 20:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jaén nuevo carril peatonal</title>
+      <link>https://www.horajaen.com/2025/06/06/diputacion-inaugura-el-carril-peatonal-entre-jaen-y-puente-tablas-tras-una-inversion-de-casi-medio-millon/</link>
+      <description>La Diputación inaugura el nuevo carril peatonal con Puente Tablas</description>
+      <category>Urbano</category>
+      <guid isPermaLink="false">B77B901D-52AC-4A86-BD5A-D5BB970EEDFF</guid>
+      <pubDate>Fri, 06 Jun 2025 19:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Page y Sánchez</title>
+      <link>https://www.elespanol.com/eldigitalcastillalamancha/region/20250606/frio-saludo-page-sanchez-rechaza-adelanto-electoral-pidio-baron-castilla-la-mancha/1003743792749_0.html</link>
+      <description>Tensión sobre su frío saludo entre ambos.</description>
+      <category>Política</category>
+      <guid isPermaLink="false">B15A7246-54D5-4877-87F3-3FF0BCB459BB</guid>
+      <pubDate>Fri, 06 Jun 2025 19:53:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
